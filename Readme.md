@@ -9,3 +9,6 @@ info:
 
 random password:
 > clone the project and run the command *```./random_password.sh```* to run the script
+
+internet connection:
+> clone the project and run the command *```./internet.sh```* to run the script
